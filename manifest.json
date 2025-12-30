@@ -1,0 +1,16 @@
+{
+  "name": "Essensplaner",
+  "short_name": "Essensplaner",
+  "start_url": "./essensplaner.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect fill='%232563eb' width='512' height='512' rx='100'/><text y='380' x='256' text-anchor='middle' font-size='300' fill='white'>🍽️</text></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
